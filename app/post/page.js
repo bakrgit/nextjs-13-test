@@ -9,7 +9,7 @@ const Post =async () => {
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
             </p>
 
-<h1>hello change</h1>
+<h1>hello change2222</h1>
             {data && <PostComponent data={data}/>}
 
         </>

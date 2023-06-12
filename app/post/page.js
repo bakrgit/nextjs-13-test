@@ -16,6 +16,7 @@ const Post =async () => {
             <h1>hello change22223333 ;pull</h1>
             <h1>hello 44444 ;pull</h1>
             <h1>hello 5555 ;pull</h1>
+            <h1>hello 666 ;pull</h1>
             {data && <PostComponent data={data}/>}
 
         </>
